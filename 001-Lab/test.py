@@ -1,5 +1,6 @@
 #Execute command
 #python3 test.py
+#python test.py
 
 print('********************************')
 print('******* TIPO DE VARIABLE *******')
