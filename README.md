@@ -5,3 +5,4 @@ Laboratorio de Introduccion a la programacion y computacion 2 - Primer semestre
 Ejemplo inicial de python, conceptos basicos como: tipos de datos, variables, diagramas de flujo, ciclos y funciones.
 
 ### SEGUNDO LABORATORIO
+Pruebas para segundo laboratorio
