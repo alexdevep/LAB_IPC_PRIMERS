@@ -26,7 +26,7 @@ git remote add origin http://github.com/<usser>/repo1.git
 #*Se crea el repositorio con el archivo README.md
 ```
 
-#### Creando un repositorio
+#### Clonando un repositorio
 
 ```sh
 git clone http://github.com/<usser>/repo1.git
