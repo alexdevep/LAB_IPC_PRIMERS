@@ -8,5 +8,5 @@ Ejemplo inicial de python, conceptos basicos como: tipos de datos, variables, di
 Como utilizar Git, comandos basicos para trabajar en un proyecto.
 
 ## TERCER LABORATORIO
-Metalenguaje XML, XPATH y DOM.
+Metalenguaje XML con DOM y ElementTree.
 
