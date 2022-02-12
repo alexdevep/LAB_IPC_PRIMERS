@@ -1,0 +1,8 @@
+<data>
+    <items>
+        <item name="item1">item_1value</item>
+        <item name="item2">item_2value</item>
+        <nodo name="nodox">nodo_xvalue</nodo>
+        <item name="item3">item_3value</item>
+    </items>
+</data>
