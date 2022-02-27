@@ -18,4 +18,3 @@ Metalenguaje XML con DOM y ElementTree.
 Ordenamiento de listas, metodo por insersion, burbuja y quicksort.
 
 
-## Release V.1.0
