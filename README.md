@@ -14,4 +14,7 @@ Metalenguaje XML con DOM y ElementTree.
 #### Funcionamiento de listas y arreglos, con librerias nativas de python.
 #### Funcionamiento de Pilas y colas con POO.
 
+## QUINTO Laboratorio
+Ordenamiento de listas, metodo por insersion, burbuja y quicksort.
+
 ## Release V.1.0
