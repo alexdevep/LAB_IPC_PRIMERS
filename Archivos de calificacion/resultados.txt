@@ -1,0 +1,43 @@
+
+Extended    -> Archivo 1
+Medium      -> Archivo 2
+Easy        -> Archivo 3 
+
+------- ARCHIVO 2 ---------
+Piso "Cocina"
+Patrón inicial: cod41
+Patrón final: cod43
+Costo óptimo aproximado: 38
+
+Piso "Cuarto"
+Patrón inicial: cod42
+Patrón final: cod41
+Costo óptimo aproximado: 55
+
+Piso "Salon"
+Patrón inicial: C50
+Patrón final: C30
+Costo óptimo aproximado: 801
+
+Piso "Pasillo"
+Patrón inicial: cod41
+Patrón final: cod43
+Costo óptimo aproximado: 550
+
+
+------- EXTENDED ---------
+COCINA 
+C00 A C01
+
+1) INTER 2,2 CON 2,3   ----6
+2) VOLTEAR 5,2         ----387
+3) VOLTER 6,2		----387
+4) VOLTEAR 2,3		----387
+5) VOLTEAR 3,3		----387
+6) INTER 1,4 CON 1,5	----6
+7) VOLTEAR 3,4		----387
+8) VOLTEAR 5,4		----387
+
+COSTO = 2334
+
+*** pero la verdad no estoy seguro si es lo mas optimo ***
