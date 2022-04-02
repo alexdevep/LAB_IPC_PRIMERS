@@ -23,7 +23,6 @@ def ipc2():
 #@app.route('/<string:nombre>/') #Ser explicitos en tipo de variable
 #def saludo(nombre):
 #    return f"Hola, {nombre}"
-#NOTA: mover este metodo antes de /ipc2 para ver error de coincidencia.
 
 #------------------------- TEMPLATES -------------------------
 @app.route('/index')
