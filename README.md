@@ -17,6 +17,17 @@ Metalenguaje XML con DOM y ElementTree.
 ## QUINTO Laboratorio
 Ordenamiento de listas, metodo por insersion, burbuja y quicksort.
 
+## SEXTO Laboratorio
+Diccionarios y tuplas.
+
+## SEPTIMO Laboratorio
+Matriz dispersa.
+
+## OCTAVO Laboratorio
+HTML y CSS.
+
+## OCTAVO Laboratorio
+Framework Flask.
 
 ## Release V.2.0
 
