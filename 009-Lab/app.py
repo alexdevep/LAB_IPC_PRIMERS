@@ -1,7 +1,8 @@
 #https://flask.palletsprojects.com/en/2.1.x/quickstart/#a-minimal-application
 # Importamos flask
 # render_template, nos permite renderizar html
-from flask import Flask, render_template
+from flask import Flask, render_template, request
+import xmltodict
 
 # Creamos una instancia, por defecto el nombre app.
 # __name__ hace posible el manejo de nuestro recursos
@@ -37,6 +38,14 @@ def numeros():
 @app.route('/<string:nombre>/') #Ser explicitos en tipo de variable
 def saludo(nombre):
     return render_template("saludo.html", name=nombre) #Revisar sintaxis
+
+@app.route('/xml', methods = ['POST', 'GET'], strict_slashes=False)
+def peticiones():
+    print('************************* entro! *************************')
+    content = xmltodict.parse(request.get_data())
+    print('************************* convrirtio! *************************')
+    print (content)
+    return content
 
 #Si obtienen este error -> "Error: Could not import 'development'.", agregar siguiente linea
 #Corre el servidor

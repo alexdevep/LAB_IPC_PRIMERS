@@ -20,6 +20,9 @@ export FLASK_APP=app.py
 #Este comando genera los binarios y ejecutables de nuestra aplicacion
 python3 -m flask run #Linux
 python -m flask run #Windows y Mac
+
+#Instala la libreria capaz de castear el xml enviado en la peticion
+pip install xmltodict
 ```
 
 ### Para ejecutar nuestro archivo en entorno de desarrollo
