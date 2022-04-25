@@ -39,7 +39,7 @@ def numeros():
 def saludo(nombre):
     return render_template("saludo.html", name=nombre) #Revisar sintaxis
 
-@app.route('/xml', methods = ['POST', 'GET'], strict_slashes=False)
+@app.route('/xml', methods = ['POST'], strict_slashes=False)
 def peticiones():
     print('************************* entro! *************************')
     content = xmltodict.parse(request.get_data())
