@@ -57,7 +57,7 @@ admin.site.register(Formula)
 python3 manage.py createsuperuser
 # http://127.0.0.1:8000/
 ```
-
+- Agregamos al proyecto urls, la ruta base de nuestra app formulario
 ```python
 from .models import Formula
 ```
