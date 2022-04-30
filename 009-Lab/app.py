@@ -52,6 +52,8 @@ def add_pub():
     #parametros
     nombre = request.json['nombre']
     curso = request.json['curso']
+    lista = request.json['lista']
+    print(lista)
     msg = 'Hola mi nombre es ' + nombre +', bienvenido al curso de ' + curso
     print(msg)
     return jsonify(Name = 'POST', Mensaje= msg, Status=True),200
