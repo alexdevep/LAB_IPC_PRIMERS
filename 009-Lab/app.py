@@ -1,7 +1,7 @@
 #https://flask.palletsprojects.com/en/2.1.x/quickstart/#a-minimal-application
 # Importamos flask
 # render_template, nos permite renderizar html
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, json, jsonify
 import xmltodict
 
 # Creamos una instancia, por defecto el nombre app.
@@ -46,6 +46,15 @@ def peticiones():
     print('************************* convrirtio! *************************')
     print (content)
     return content
+
+@app.route('/posting' , methods=['POST'])
+def add_pub():
+    #parametros
+    nombre = request.json['nombre']
+    curso = request.json['curso']
+    msg = 'Hola mi nombre es ' + nombre +', bienvenido al curso de ' + curso
+    print(msg)
+    return jsonify(Name = 'POST', Mensaje= msg, Status=True),200
 
 #Si obtienen este error -> "Error: Could not import 'development'.", agregar siguiente linea
 #Corre el servidor
