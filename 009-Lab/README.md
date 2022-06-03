@@ -10,6 +10,11 @@ pip install flask
 flask --version
 ```
 
+### Instalar Dependencias de requirements.txt
+```
+pip install -r requirements.txt
+```
+
 ### Para ejecutar nuestro archivo en entorno de produccion
 
 > En este modo siempre tenemos que reiniciar nuestra aplicacion si se hacen cambios.
