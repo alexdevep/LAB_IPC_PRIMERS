@@ -1,0 +1,99 @@
+
+HORARIO CALIFICACION PROYECTO 2
+https://docs.google.com/spreadsheets/d/1bWbIegXf2xMxcRoVkJKxb6GsrCLannmPtlqxfKvTQPw/edit?usp=sharing
+
+
+LINK ARCHIVOS DE ENTRADA
+https://drive.google.com/drive/folders/1Z-ieG81DnqWYcC-4_pQm1DQUMrHBlXeL?usp=sharing
+
+
+FORMULARIO DE ACUERDO PROYECTO 2
+https://docs.google.com/forms/d/e/1FAIpQLSe5nqu_PEhw7XGtH4Q8HHSEwJE00HmfmkRypaGEVzKz49n9yA/viewform?usp=sf_link
+
+
+LINK NOTAS
+NOTAS DIA1
+https://docs.google.com/spreadsheets/d/1Veg94ffmu2gKoQE-0bO0e64EmSOk0GgiOHdGxSGPWh4/edit?usp=sharing
+NOTAS DIA2
+https://docs.google.com/spreadsheets/d/1MXCl4HHmgqagpGUJ8hewZExbG9wtQWqfOktWH7WeWuY/edit?usp=sharing
+
+
+MEET CALIFICACION DIA 1
+	Calificación Proyecto 2 (día 1/2)
+	Viernes, 8 abril · 5:30 – 11:30pm
+	Información para unirse a la reunión de Google Meet
+	Vínculo a la videollamada: https://meet.google.com/eps-sava-cyw
+	O marca el: ‪(GT) +502 2458 1186‬ PIN: ‪744 522 391 3453‬#
+	Más números de teléfono: https://tel.meet/eps-sava-cyw?pin=7445223913453
+
+MEET CALIFICACION DIA 2
+	Calificación Proyecto 2 (día 2/2)
+	Sábado, 9 abril · 10:00am – 3:30pm
+	Información para unirse a la reunión de Google Meet
+	Vínculo a la videollamada: https://meet.google.com/urf-ujdz-tqe
+	O marca el: ‪(GT) +502 2458 1186‬ PIN: ‪642 086 392 6894‬#
+	Más números de teléfono: https://tel.meet/urf-ujdz-tqe?pin=6420863926894
+	
+COLORES
+	NEGRO 	-> INTRANSITABLE
+	VERDE 	-> PUNTO DE ENTRADA
+	BLANCO	-> CAMINO
+	ROJO 	-> UNIDAD MILITAR
+	AZUL 	-> UNIDAD CIVIL
+	GRIS 	-> RECURSO
+	
+		ENTRADA 1
+			CHAPIN FIGHTER
+				BUMBLEBEE -> 75 POWER
+				ESPONJATRON -> 10 POWER
+				WARMACHINE -> 50 POWER
+				KIRBY -> 100 POWER
+			CHAPIN RESCUE
+				WALLE
+				EVA
+				BAYMAX
+		ENTRADA 2
+			CHAPIN FIGHTER
+				GUERRERO1 -> 200 POWER
+				GUERRERO2 -> 100 POWER
+				GUERRERO3 -> 50 POWER
+			CHAPIN RESCUE
+				RESCATISTA1
+				RESCATISTA2
+				
+MISIONES DE RESCATE (VERDE AL AZUL, EVITANDO ROJOS)
+	MISIONES COMPLETADAS
+		ENTRADA 1
+			radiadorspring -> X entrada -> X unidad civil
+			dimmsdale -> (15,1) entrada -> (5,17) unidad civil
+			dimmsdale -> (15,1) entrada -> (5,8) unidad civil
+			dimmsdale -> (15,1) entrada -> (11,8) unidad civil
+		ENTRADA 2
+			dimmsdale -> warmachine -> (17,1) entrada -> (10,7) unidad civil
+	MISIONES IMPOSIBLES (inexistencia de unidad civil)
+		ENTRADA 1
+			dimmsdale -> (1,3) entrada -> (10,3) unidad civil
+		ENTRADA 2
+			dimmsdale -> esponjatron -> (1,3) entrada -> (4,1) unidad civil
+
+
+MISIONES DE EXTRACCION (VERDE AL GRIS)
+	MISIONES COMPLETADAS
+		ENTRADA 2
+			madrid -> guerrero2 -> (1,13) entrada -> (10,2) recurso -->> termina con capacidad de 35
+			dimmsdale -> guerrero2 -> (1,2) entrada -> (15,2) recurso -->> termina con capacidad de 30
+	MISIONES IMPOSIBLES (inexistencia de recurso o robot derrotado)
+		ENTRADA 2
+			madrid -> guerrero3 -> (1,13) entrada -> (7,10) recurso
+			dimmsdale -> guerrero3 -> (1,2) entrada -> (15,2) recurso
+			
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+
+//************ RETORNA ERROR: NO EXISTE EMPRESA CAMPERO********************//
+
+<?xml version="1.0"?>
+<mensaje>
+    Lugar y fecha: Guatemala,
+    07/05/2022 15:20 Usuario: alexixva@usac.edu
+    Red social: Twitter 
+    Hoy fui a comer a Campero, pesimo servicio, no me dieron mis tortillas. :(
+</mensaje>
+
+//********************************//
+
+<?xml version="1.0"?>
+<mensaje>
+    Lugar y fecha: Guatemala, 06/05/2022 15:01 Usuario: 
+	  map0001@usac.edu   Red social: Twitter
+	  El servicio en la USAC para inscripción fue muy bueno y me siento muy satisfecho.
+</mensaje>
+
+//********************************//
+
+<?xml version="1.0"?>
+<mensaje>
+    Lugar y fecha: Guatemala,
+    07/05/2022 15:20 Usuario: my_name@usac.edu
+    Red social: Facebook 
+    Hoy me inscribí en la USAC, no encontré parqueo e inicié molesto mi gestión,
+    luego tuve que hacer cola y me indicaron que era la cola incorrecta,
+    esto me enojó mucho y mejor me fui.
+</mensaje>
+
+//********************************//
+
+<?xml version="1.0"?>
+<mensaje>
+    Lugar y fecha: Guatemala,
+    07/05/2022 15:20 Usuario: my_name@usac.edu
+    Red social: WhatsApp 
+    Hoy me inscribí en la USAC, no encontré parqueo e inicié molesto mi gestión,
+    luego tuve que hacer cola y me indicaron que era la cola incorrecta,
+    esto me enojó mucho y mejor me fui.
+</mensaje>
+
+//********************************//
+
+<respuesta>
+    <fecha> 01/04/2022 </fecha>
+    <red_social> Facebook </red_social>
+    <usuario> map0002@usac.edu </usuario>
+    <empresas>
+        <empresa nombre=USAC>
+            <servicio> inscripción </servicio>
+            …
+        </empresas>
+        …
+    </empresas>
+    <palabras_positivas> 0 </palabras_positivas>
+    <palabras_negativas> 2 </palabras_negativas>
+    <sentimiento_positivo> 0% </sentimiento_positivo>
+    <sentimiento_negativo> 100% </sentimiento_negativo>
+    <sentimiento_analizado> negativo </sentimiento_analizado>
+</respuesta>

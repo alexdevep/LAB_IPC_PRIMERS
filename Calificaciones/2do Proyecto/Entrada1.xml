@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<configuracion>
+    <listaCiudades>
+        <ciudad>
+            <nombre filas="17" columnas="18">Dimmsdale</nombre>
+            <fila numero="1">"**E***************"</fila>
+            <fila numero="2">"** **R        ****"</fila>
+            <fila numero="3">"** ********** ****"</fila>
+            <fila numero="4">"R  **********    *"</fila>
+            <fila numero="5">"** ********** **C*"</fila>
+            <fila numero="6">"**      C     ** *"</fila>
+            <fila numero="7">"** ** ******* R* *"</fila>
+            <fila numero="8">"** ** ******* ** *"</fila>
+            <fila numero="9">"** ** ***     ** *"</fila>
+            <fila numero="10">"**C**R******* ** *"</fila>
+            <fila numero="11">"** ****C         *"</fila>
+            <fila numero="12">"** ********** ****"</fila>
+            <fila numero="13">"** ********** ****"</fila>
+            <fila numero="14">"** ********** ****"</fila>
+            <fila numero="15">"E                *"</fila>
+            <fila numero="16">"** ************* *"</fila>
+            <fila numero="17">"****************E*"</fila>
+            <unidadMilitar fila="2" columna="14">25</unidadMilitar>
+            <unidadMilitar fila="4" columna="3">10</unidadMilitar>
+            <unidadMilitar fila="7" columna="6">20</unidadMilitar>
+            <unidadMilitar fila="9" columna="14">25</unidadMilitar>
+            <unidadMilitar fila="15" columna="16">25</unidadMilitar>
+        </ciudad>
+        <ciudad>
+            <nombre filas="10" columnas="10">BikiniBottom</nombre>
+            <fila numero="1">"**********"</fila>
+            <fila numero="2">"***R**   E"</fila>
+            <fila numero="3">"*** ** ***"</fila>
+            <fila numero="4">"*** ** ***"</fila>
+            <fila numero="5">"*** ** ***"</fila>
+            <fila numero="6">"*        R"</fila>
+            <fila numero="7">"* **** ***"</fila>
+            <fila numero="8">"* **** ***"</fila>
+            <fila numero="9">"* **** ***"</fila>
+            <fila numero="10">"*E****R***"</fila>
+            <unidadMilitar fila="6" columna="2">13</unidadMilitar>
+            <unidadMilitar fila="6" columna="7">22</unidadMilitar>
+        </ciudad>
+        <ciudad>
+            <nombre filas="10" columnas="10">RadiadorSprings</nombre>
+            <fila numero="1">"*******E**"</fila>
+            <fila numero="2">"******* **"</fila>
+            <fila numero="3">"E       **"</fila>
+            <fila numero="4">"** **** **"</fila>
+            <fila numero="5">"** **** **"</fila>
+            <fila numero="6">"** *R**  C"</fila>
+            <fila numero="7">"** * ** **"</fila>
+            <fila numero="8">"** * ** **"</fila>
+            <fila numero="9">"** C    **"</fila>
+            <fila numero="10">"**********"</fila>
+            <unidadMilitar fila="7" columna="5">100</unidadMilitar>
+            <unidadMilitar fila="8" columna="5">100</unidadMilitar>
+            <unidadMilitar fila="9" columna="5">100</unidadMilitar>            
+        </ciudad>
+    </listaCiudades>
+    <robots>
+        <robot>
+            <nombre tipo="ChapinFighter" capacidad="75">BumbleBee</nombre>
+        </robot>
+        <robot>
+            <nombre tipo="ChapinRescue">WallE</nombre>
+        </robot>
+        <robot>
+            <nombre tipo="ChapinFighter" capacidad="10">Esponjatron</nombre>
+        </robot>
+        <robot>
+            <nombre tipo="ChapinRescue">Eva</nombre>
+        </robot>
+        <robot>
+            <nombre tipo="ChapinFighter" capacidad="50">WarMachine</nombre>
+        </robot>
+        <robot>
+            <nombre tipo="ChapinRescue">Baymax</nombre>
+        </robot>
+        <robot>
+            <nombre tipo="ChapinFighter" capacidad="100">Kirby</nombre>
+        </robot>
+    </robots>
+</configuracion>

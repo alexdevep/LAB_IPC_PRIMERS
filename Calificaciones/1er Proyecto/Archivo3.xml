@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<pisosArtesanales>
+        <piso nombre="piso1">
+                <R>9</R>
+                <C>1</C>
+                <F>323</F>
+                <S>155</S>
+                <patrones>
+                        <patron codigo="C20">WBBBBBBBW</patron>
+                        <patron codigo="C30">WBWBWBWBW</patron>
+                        <patron codigo="C40">WWWWWWWBW</patron>
+                        <patron codigo="C50">WWWWWWWWB</patron>
+                </patrones>
+        </piso>
+        <piso nombre="piso2">
+                <R>1</R>
+                <C>9</C>
+                <F>300</F>
+                <S>10</S>
+                <patrones>
+                        <patron codigo="C20">WBWBWBWBW</patron>
+                        <patron codigo="C30">WBBBBBBBW</patron>
+                        <patron codigo="C40">WWWWWWWWB</patron>
+                        <patron codigo="C50">BWWWWWWWW</patron>
+                </patrones>
+        </piso>
+                <piso nombre="miPiso3">
+                <R>4</R>
+                <C>4</C>
+                <F>50</F>
+                <S>10</S>
+                <patrones>
+                <patron codigo="C01">WWWWWBWBBWBWWWWW</patron>
+                <patron codigo="C02">BBBBBBBBBBBBBBBB</patron>
+                <patron codigo="C03">WWWWBWBWWBWBWWWW</patron>
+                </patrones>
+        </piso>
+</pisosArtesanales>
